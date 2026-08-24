@@ -12,3 +12,4 @@ hi
 Hello Test Job
 Goof morning
 vande matr
+pipiline view testing
